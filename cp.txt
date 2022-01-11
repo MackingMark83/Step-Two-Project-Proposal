@@ -1,0 +1,61 @@
+Project Proposal
+
+1.What goal will your website be designed to achieve? 
+
+The goal of this website will be to design a website for restaurant to come to and build their restaurant menus. 
+
+2.What kind of users will visit your site? In other words, what is the demographic of your users? 
+
+The demographic that would come and uses this website would be well to do men and woman with the mind set of entrepreneurial achievements to start their own restaurant business. 
+
+3.What data do you plan on using? You may have not picked your actual API yet, which is fine, just outline what kind of data you would like it to contain. 
+
+I am going to uses the Spoonacular recipe and food API. The kind of data that I will pull from this API is different entries, drink alcoholic and non - alcoholic. Difference types of soups and salad. Also the sides that will be offer with the entries. The user will have to tell you what type of restaurant he or she is opening.  
+
+
+4. In brief, outline your approach to creating your project (knowing that you may not know everything in advance and that these details might change later). Answer questions like the ones below, but feel free to add more information: 
+
+a.What does your database schema look like? 
+
+My schema will have many tables. The first table will be the entries. In this table the table will tell you the name of the entry and what type of meat the entry is what sides go with the meat. The second table will be the sides table. This table will tell you what type of sides the restaurant offers. The third table will be the salads table. The fourth table will be the soups table. This table will tell you what type of soups the restaurant offers. The last table will be the drinks table. This table will tell you what type of drinks the restaurant offers. Their will also be a row in this table that tells you wither a drink is alcoholic and non - alcoholic.    
+
+b. What kinds of issues might you run into with your API? 
+
+The kind of issues I could run in to with this API is maybe a users can’t find the type of food he or she is looking for on the API.
+
+c. Is there any sensitive information you need to secure? 
+
+The only sensitive information I will need to secure is the password
+
+
+
+
+d. What functionality will your app include? 
+
+The functionality of the app will be:
+1st Sign up
+2nd select entry
+3rd select sides
+4th select salads 
+5th select soups
+6th select non - alcoholic drinks
+7th select alcoholic drinks
+
+ 
+e. What will the user flow look like.
+
+On the homepage will be the sign-up and login page. On this page the user will create a username and password. Once this is done the user will be directed to a form where he or she will be able to select up to 14 entry and add it to their menu. Once the users is done the users will click a done button that will push the items selected to a page where the menu is forming. And the button clicked will also direct the user to the next stage of the menu selection which is the sides portion.
+
+On this page the users will be able to selected up to 10 sides his or her restaurant will offer. Once the users is done the users will click a done button that will push the items selected to a page where the menu is forming. And the button clicked will also direct you to the next stage of the menu selection which is the salad portion. 
+
+On this page the user will be able to selected up to 5 salads his or her restaurant will offer. Once the users is done the users will click a done button that will push the items selected to a page where the menu is forming. And the button clicked will also direct you to the next stage of the menu selection which is the soup portion.
+
+On this page the user will be able to selected up to 5 soups his or her restaurant will offer. Once the users is done the users will click a done button that will push the items selected to a page where the menu is forming. And the button clicked will also direct you to the next stage of the menu selection which is the non - alcoholic drink portion.
+
+On this page the user will be able to selected up to 20 non - alcoholic drink his or her restaurant will offer. Once the users is done the users will click a done button that will push the items selected to a page where the menu is forming. And the button clicked will also direct you to the next stage of the menu selection which is the alcoholic drink portion  
+
+On this page the user will be able to selected up to 20 alcoholic drink his or her restaurant will offer. Once the users is done the users will click a done button that will push the items selected to a page where the menu is forming. And the button clicked will also direct you to the next stage of the menu selection where this will be the edit and review page.
+
+On this page the users will review the items selection. If they are done they can click a done button where the users will be directed to the finished menu. After the bottom of the page their will be a log out button were the users can logout and will be directed back to a the sign-up and login page. If they want to change any thing they will click an edit button that will direct them to a edit page. On the page redirect the user back to the start of the process where he or she can change item and repeat the process until they are back to the review page.
+
+
